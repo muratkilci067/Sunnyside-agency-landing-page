@@ -4,8 +4,7 @@ This is a solution to the **[Frontend Mentor - Sunnyside agency landing page cha
 
 ## 🔗 Live Site
 
-[Live Demo](https://your-username.github.io/sunnyside-agency-landing-page/)  
-> Replace this with your live URL.
+[Live Demo](https://muratkilci067.github.io/Sunnyside-agency-landing-page/) 
 
 ##  Screenshots
 
@@ -43,8 +42,6 @@ During this project, I improved my skills in:
 - Advanced CSS positioning and layout techniques
 - Mobile navigation toggle logic
 - Using modern CSS units (rem, vh/vw)
-
-> Add code snippets or screenshots to show what you learned if you like.
 
 ---
 
